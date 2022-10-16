@@ -63,4 +63,4 @@ We mapped each topic to a scene segment and named each topic. After that, the su
 
 
 
-For more detail.. See this [document]()
+For more detail.. See this [document](Topic modeling_Report.docx)
