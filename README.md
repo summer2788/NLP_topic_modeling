@@ -1,4 +1,4 @@
-# NLP_topic_modeling (Korean Version)  :+1:
+# Story Distinguisher using NLP_topic_modeling (Korean Version)  :+1:
 
 
 ## Topic modeling considering context distinguishes temporal and sequential orders of stories  :shipit:
